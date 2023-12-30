@@ -1,5 +1,6 @@
 # CREDITS
-https://steamcommunity.com/app/1621690/discussions/0/5514142341105205082/
+[STARTER CODE USER MINIHAT](https://steamcommunity.com/app/1621690/discussions/0/5514142341105205082/)
+
 Had the inital code, I just wanted to make it GUI and user accessible
 
 # Midi Piano To Keyboard Input
