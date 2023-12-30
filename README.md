@@ -10,7 +10,7 @@ A simple MIDI to Keyboard mapping tool written in Python for core keeper
 Grabs a list of currently connected midi inputs. Then allows you to choose one of them for playing the songs.
 
 ## Usage
-python midiPiano.py
+`python midiPiano.py`
 
 # Building the Exe
-pyinstaller midiPiano.spec
+`pyinstaller midiPiano.spec`
